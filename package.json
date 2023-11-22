@@ -9,11 +9,7 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [
-    "onCommand:auto-quotation.auto-quotation",
-    "onCommand:auto-quotation.auto-dis-quotation",
-    "onCommand:auto-quotation.auto-quotationWithSpace"
-  ],
+  "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
